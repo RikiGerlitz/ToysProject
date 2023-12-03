@@ -4,7 +4,7 @@ main{
 main .topPic {
   min-height: 300px;
   border-radius: 32px;
-  background-image: url(../pexels-maria-tyutina-954599.jpg);
+  background-image: url(pexels-maria-tyutina-954599.jpg);
   font-family: "Pattaya", sans-serif;
   box-shadow: 0px 10px 22px 0px #000000;
   background-position: center;
